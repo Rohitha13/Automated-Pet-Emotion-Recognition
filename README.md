@@ -24,7 +24,7 @@ So the final output is something like: *"Dog detected — emotion: Happy 🙂"*
 | `pet_facial_emotion_EfficientNet.ipynb` | **Model 3 — EfficientNet.** Uses a pre-trained EfficientNet model and fine-tunes it for emotions. Usually the best-performing one. |
 | `efficinetb5.ipynb` | Experiment using the larger **EfficientNetB5** backbone. |
 | `cnnprediction.ipynb` | Script to run predictions with the CNN emotion model on new images. |
-| `predictenn.ipynb` | Script that combines **YOLOv8 (pet detection)** + **CNN (emotion)** for the full pipeline on new images. |
+| `predictenn.ipynb` | Script that combines **YOLOv8 (pet detection)** + **NN (emotion)** for the full pipeline on new images. |
 | `animal_classifier_model.h5` | Pre-trained model that tells cats, dogs, and wild animals apart. Used inside the Advanced CNN. |
 | `yolov8n.pt` | Pre-trained YOLOv8 model used to detect the pet in the image. |
 
