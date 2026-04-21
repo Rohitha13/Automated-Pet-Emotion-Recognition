@@ -119,7 +119,7 @@ The models were trained on the **Pets Facial Expression Dataset** from Kaggle, w
 
 🔗 **Download it here:** [Pets Facial Expression Dataset on Kaggle](https://www.kaggle.com/datasets/anshtanwar/pets-facial-expression-dataset)
 
-The animal classifier was trained separately on a 10,000-image animal-faces dataset (cat / dog / wild).
+The animal classifier was trained separately on a 10,00-image animal-faces dataset (cat / dog / wild).
 
 
 ---
