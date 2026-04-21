@@ -113,7 +113,14 @@ Open `predictenn.ipynb`, change the image path to point to your photo, and run a
 
 ## Dataset
 
-The models were trained on a pet facial expression dataset containing images of dogs and cats labeled with one of the four emotions above. The animal classifier was trained separately on a 10,000-image animal-faces dataset (cat / dog / wild).
+## Dataset
+
+The models were trained on the **Pets Facial Expression Dataset** from Kaggle, which contains images of dogs and cats labeled with one of the four emotions above.
+
+🔗 **Download it here:** [Pets Facial Expression Dataset on Kaggle](https://www.kaggle.com/datasets/anshtanwar/pets-facial-expression-dataset)
+
+The animal classifier was trained separately on a 10,000-image animal-faces dataset (cat / dog / wild).
+
 
 ---
 
